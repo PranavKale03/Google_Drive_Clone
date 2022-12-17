@@ -1,7 +1,6 @@
 # Google_Drive_Clone
 Recently, I have made Google Drive clone using HTML and CSS.
 It was really fun to code and make such clone.
-It really helps to build our web development skills.
 
 
 
